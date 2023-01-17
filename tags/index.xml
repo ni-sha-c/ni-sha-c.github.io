@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nisha Chandramoorthy</title>
-    <link>https://texify.queensferry.me/tags/</link>
+    <link>https://ni-sha-c.github.io/tags/</link>
     <description>Recent content in Tags on Nisha Chandramoorthy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>me@example.com (author)</managingEditor>
-    <webMaster>me@example.com (author)</webMaster><atom:link href="https://texify.queensferry.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>me@example.com (author)</webMaster><atom:link href="https://ni-sha-c.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
