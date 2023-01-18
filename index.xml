@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nisha Chandramoorthy</title>
-    <link>https://ni-sha-c.github.io/</link>
+    <link>//ni-sha-c.github.io/</link>
     <description>Recent content on Nisha Chandramoorthy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>me@example.com (author)</managingEditor>
-    <webMaster>me@example.com (author)</webMaster><atom:link href="https://ni-sha-c.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>me@example.com (author)</webMaster><atom:link href="//ni-sha-c.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>https://ni-sha-c.github.io/_research/</link>
+      <link>//ni-sha-c.github.io/_research/</link>
       <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
       <author>me@example.com (author)</author>
-      <guid>https://ni-sha-c.github.io/_research/</guid>
+      <guid>//ni-sha-c.github.io/_research/</guid>
       
       <description>&lt;p&gt;Below, painted informally and in broad strokes, are some questions from my research.&lt;/p&gt;
 &lt;h3 id=&#34;computing-for-and-with-chaotic-dynamics&#34;&gt;Computing for and with chaotic dynamics&lt;/h3&gt;
