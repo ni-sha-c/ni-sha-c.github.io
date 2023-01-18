@@ -12,11 +12,17 @@ body {font-family: arial;
 p {
   font-size: 1.3em;
   margin: 1em 10em 1em 10em;
+  text-align: justify;
 }
 .nav-bar-item {font-family: arial;
   margin: 1em 5em 5em 1em;
 }
-.nisha-pic {
-  margin: 0 10em 0 200em;
-}
+ul {
+  font-size: 1.1em;
+  margin: 1em 10em 1em 10em;
+  text-align: justify;
 
+}
+h3 {
+  margin: 1em 10em 1em 10em;
+}
