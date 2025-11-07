@@ -121,7 +121,13 @@ Computing for and with chaotic dynamics Because of its high sensitivity to pertu
 <main id="main" class="post">
   
   <article class="content">
-    <p>Below, painted informally and in broad strokes, are some questions from my research.</p>
+    <p>Recently, we have been working on mathematics of generative modeling and sampling. Viewing generative modeling algorithms as dynamical systems, we can ask questions about 
+    <ul>
+      <li>dimension reduction if we know about any low-dimensional structure in the data distribution </li>
+      <li> control of errors in generative models by looking at their linearizations or performing Lyapunov analysis </li>
+    </ul> 
+    </p>
+    <p>Below, painted informally and in broad strokes, are some questions from my past research.</p>
 <h3 id="computing-for-and-with-chaotic-dynamics">Computing for and with chaotic dynamics</h3>
 <p>Because of its high sensitivity to perturbations, the state of a chaotic system cannot be predicted accurately even when its (deterministic) governing equations are known. This is because the initial condition is, in practice, never known exactly. Furthermore, the governing equations can only be solved inexactly leading to growing numerical errors. The resulting solution will only be a <em>pseudo</em>-orbit of the true governing equations. This is also the case when there are &ndash; in practice, inevitable &ndash; modeling errors in the governing equations. We are interested in two practically meaningful quantities whose estimates are known mathematically. The presence of chaos makes existing algorithms developed for these estimates in nonchaotic systems invalid or infeasible. Thus, it may seem that, in the quest to find a mathematically rigorous and a feasible computation, the abovementioned high sensitivity to perturbations is a deadend. But, ultimately, this defining feature of chaos gives us wings. When we learn to exploit instability to perturbations, we not only compute the quantities we desired in a new way, but we encounter other fundamental quantities that are studied in statistics.</p>
 <h4 id="how-does-the-long-term-behavior-of-a-chaotic-system-change-with-system-parameters">How does the long-term behavior of a chaotic system change with system parameters?</h4>
@@ -140,7 +146,7 @@ Computing for and with chaotic dynamics Because of its high sensitivity to pertu
 
     <footer id="footer">
   <div>
-		  <br/>		  <span class="footer-text">© Copyright 2024 Nisha Chandramoorthy|<span><a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC 4.0 License</a></span>.
+		  <br/>		  <span class="footer-text">© Copyright 2025 Nisha Chandramoorthy|<span><a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC 4.0 License</a></span>.
 </div>
 </footer>
 
